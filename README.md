@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @samiran634
+- 👋 Hi, this is Samiran
 - 👀 I’m interested in creating intaractive web-apps
 - 🌱 I’m currently exploring ML,react fiber,lenic.
 <!---
