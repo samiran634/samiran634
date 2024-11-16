@@ -1,16 +1,11 @@
 
 
-# Hi, I'm samiran chakraborty! 👋
 
 
-## Other Common GitHub Profile Sections
-👩‍💻 I'm fond of creating innovative frontend design
 
-🧠 I'm currently learning GSAP, three js
 
-⚡️ Fun fact three js is a nightmare so use react Fiver 
 
-### Hi there, I'm [Hemant!](https://hemant.codes) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
+### Hi there, I'm [samiran!](https://samiran.codes) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
 
 
 <br/>
@@ -64,7 +59,13 @@
 
 **I am Into , 🙏**
 
-**Machine Learning, Web Development, SEO, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+** Web Development, Micro Services, System Design, Competetive Programming & Physics and Physics 😼**
+## Other Common GitHub Profile Sections
+👩‍💻 I'm fond of creating innovative frontend design
+
+🧠 I'm currently learning GSAP, three js
+
+⚡️ Fun fact three js is a nightmare so use react Fiver 
 <br />
 
 
