@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am working on learning to react<br>I know c++,javascript<br><br>
+I am a passionate full stack developer<br>
+I can learn thing in fast<br>
 
 
 ## 🌐 Socials:
